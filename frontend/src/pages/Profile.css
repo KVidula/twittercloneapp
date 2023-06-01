@@ -1,0 +1,33 @@
+.profilecard{
+    border:none !important;
+    background-color: royalblue;
+    height: 150px !important;
+    max-width: 770px !important;
+    margin-left: auto; 
+    margin-right: auto;
+    position: relative;
+}
+
+.profilecontainer{
+    border: 1px solid black !important;
+
+}
+.user-profile{
+    width: 105px;
+    height: 105px;
+    border-radius: 50%;
+    position: absolute;
+    top: 100px;
+    left:20px;
+}
+.btnfollow{
+    background-color: black !important;
+    color: white !important;
+    width: 120px; 
+}
+
+.cardmodalprofile{
+    height: 60px;
+    background-color: rgba(175, 190, 232,0.3) !important;
+    color: royalblue;
+}

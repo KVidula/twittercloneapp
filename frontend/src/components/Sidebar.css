@@ -1,0 +1,18 @@
+.active{
+    background-color:rgba(175, 190, 232,0.5) !important;
+    /* margin-left: 22px;
+    margin-right: 22px; */
+    border-radius: 20px;
+}
+.nameUser{
+    margin-top: 450px;
+}
+.Sidenav{
+    height: 100%;
+    position: fixed;
+}
+.navlink:hover{
+    color: royalblue !important;
+    
+}
+
